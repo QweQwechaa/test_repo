@@ -14,7 +14,10 @@ namespace Pervii1
             int age = 25;
             Double Weight = 80.5;
             String stringToShow = neme + ", возраст " + age + ", вес " + Weight;
-            Console.WriteLine(stringToShow);hgjhgjh
+            Console.WriteLine(stringToShow);hgjhgjhjkhkjhkjhkj
+
+                hkjhjkh
+
         
         }
     }
