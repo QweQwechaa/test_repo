@@ -1,0 +1,7 @@
+c:\users\qwech\source\repos\Pervii1\Pervii1\bin\Debug\Pervii1.exe.config
+c:\users\qwech\source\repos\Pervii1\Pervii1\bin\Debug\Pervii1.exe
+c:\users\qwech\source\repos\Pervii1\Pervii1\bin\Debug\Pervii1.pdb
+c:\users\qwech\source\repos\Pervii1\Pervii1\obj\Debug\Pervii1.csprojAssemblyReference.cache
+c:\users\qwech\source\repos\Pervii1\Pervii1\obj\Debug\Pervii1.csproj.CoreCompileInputs.cache
+c:\users\qwech\source\repos\Pervii1\Pervii1\obj\Debug\Pervii1.exe
+c:\users\qwech\source\repos\Pervii1\Pervii1\obj\Debug\Pervii1.pdb
